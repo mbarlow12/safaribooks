@@ -3,9 +3,22 @@ Download and generate *EPUB* of your favorite books from [*Safari Books Online*]
 I'm not responsible for the use of this program, this is only for *personal* and *educational* purpose.  
 Before any usage please read the *O'Reilly*'s [Terms of Service](https://learning.oreilly.com/terms/).  
 
+<a href='https://ko-fi.com/Y8Y0MPEGU' target='_blank'><img height='80' style='border:0px;height:60px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+
+## ✨✨ *Attention needed* ✨✨
+- This project is no longer actively maintained.  
+- *Login through `safaribooks` no longer works due to changes in ORLY APIs.*
+- *The program needs a major refactor to include new features and integrate new APIs.*
+- **However... it still work for downloading books.**  
+(Use SSO hack: log in via browser, then copy cookies into `cookies.json`, see below and issues. Love ❤️)
+
+---
+
 ## Overview:
   * [Requirements & Setup](#requirements--setup)
   * [Usage](#usage)
+  * [Single Sign-On (SSO), Company, University Login](https://github.com/lorenzodifuccia/safaribooks/issues/150#issuecomment-555423085)
+  * [Calibre EPUB conversion](https://github.com/lorenzodifuccia/safaribooks#calibre-epub-conversion)
   * [Example: Download *Test-Driven Development with Python, 2nd Edition*](#download-test-driven-development-with-python-2nd-edition)
   * [Example: Use or not the `--kindle` option](#use-or-not-the---kindle-option)
 
